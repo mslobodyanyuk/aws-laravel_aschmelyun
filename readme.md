@@ -230,7 +230,7 @@ _"- Got Error:"_
 
 [(9:00)]( https://youtu.be/BQ0gi9YHuek?t=540 ) `In Browser`:	
 	
-	https://localhost:8080
+	http://aws-laravel_aschmelyun.loc/
 	
 ![screenshot of sample]( https://github.com/mslobodyanyuk/aws-laravel_aschmelyun/blob/main/public/images/firefox/2.png )
 
